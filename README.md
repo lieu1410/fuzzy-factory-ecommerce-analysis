@@ -3,9 +3,10 @@
 ## 📋 Project Overview
 End-to-end data analysis project for Fuzzy Factory, an online teddy bear retailer. Analyzed 3 years of data (2012-2015) covering 472,871 sessions and 32,313 orders across 4 products.
 
-**Tools:** SQL Server | Power BI  
+***Tools:** SQL Server | Power BI  
 **Dataset:** 6 tables | 36 months | Mar 2012 – Mar 2015
-**Data Source:** Xóm Data - Cùng học Data Analyst / Data Engineer / Data Scientist (https://www.facebook.com/share/g/1Ejy3ak6wQ/)
+**Data Source:** ![Xóm Data - Cùng học Data Analyst / Data Engineer / Data Scientist](https://www.facebook.com/share/g/1Ejy3ak6wQ/)
+
 ---
 
 ## 🎯 Business Objective
@@ -75,13 +76,13 @@ Xác định giai đoạn có drop-off rate cao nhất để giúp business tăn
 ## 📈 Dashboard
 
 ### Overview
-![Overview](dashboard/screenshots/dash1_overview.png)
+![Overview](dashboard/dash1_overview.png)
 
 ### Marketing Performance  
-![Marketing](dashboard/screenshots/dash2_marketing.png)
+![Marketing](dashboard/dash2_marketing.png)
 
 ### Product Performance
-![Product](dashboard/screenshots/dash3_product.png)
+![Product](dashboard/dash3_product.png)
 
 ---
 
