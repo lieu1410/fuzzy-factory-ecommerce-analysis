@@ -74,7 +74,8 @@ Xác định giai đoạn có drop-off rate cao nhất để giúp business tăn
 
 ---
 
-## 📈 Dashboard
+## 📈 Dashboard 
+(https://app.powerbi.com/reportEmbed?reportId=1f9fdce6-d4b2-4b4f-9759-ad42f6a802c5&autoAuth=true&ctid=588b13a3-653b-4cf7-8ac0-59847eb2dc88)
 
 ### Overview
 ![Overview](dashboard/dash1_overview.png)
