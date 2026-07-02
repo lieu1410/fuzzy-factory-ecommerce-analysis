@@ -5,7 +5,7 @@ End-to-end data analysis project for Fuzzy Factory, an online teddy bear retaile
 
 ***Tools:** SQL Server | Power BI  
 **Dataset:** 6 tables | 36 months | Mar 2012 – Mar 2015
-**Data Source:** ![Xóm Data - Cùng học Data Analyst / Data Engineer / Data Scientist](https://www.facebook.com/share/g/1Ejy3ak6wQ/)
+**Data Source:** Xóm Data - Cùng học Data Analyst / Data Engineer / Data Scientist (https://www.facebook.com/share/g/1Ejy3ak6wQ/)
 
 ---
 
