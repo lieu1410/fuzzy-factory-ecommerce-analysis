@@ -90,5 +90,6 @@ Xác định giai đoạn có drop-off rate cao nhất để giúp business tăn
 
 ## 👤 Author
 Nguyen Thi Lieu  
-https://www.linkedin.com/in/lieunt/ n/
+https://www.linkedin.com/in/lieunt/
+
 ntlieuxd2005@gmail.com
