@@ -88,28 +88,7 @@ Xác định giai đoạn có drop-off rate cao nhất để giúp business tăn
 
 ---
 
-## 📁 Project Structure
-\```
-fuzzy-factory-ecommerce-analysis/
-├── README.md
-├── data/
-│   └── data_dictionary.md
-├── sql/
-│   ├── 01_growth_trend.sql
-│   ├── 02_funnel_analysis.sql
-│   ├── 03_channel_performance.sql
-│   ├── 04_product_performance.sql
-│   └── views/
-│       └── [6 view files]
-├── dashboard/
-│   └── screenshots/
-└── insights/
-    └── executive_summary.md
-\```
-
----
-
 ## 👤 Author
 Nguyen Thi Lieu  
-https://www.linkedin.com/in/lieunt/
+https://www.linkedin.com/in/lieunt/ n/
 ntlieuxd2005@gmail.com
